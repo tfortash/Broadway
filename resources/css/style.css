@@ -15,10 +15,10 @@ body {
 
 .header ul {
   font-size: 18px;
-  color: white;
   text-align: center;
+  text-decoration: none;
 }
 
 .header ul li {
-  text-decoration: none;
+  color: white;
 }
