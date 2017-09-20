@@ -52,13 +52,16 @@ body {
 .Section2 h2{
   font-size: 23px;
   font-weight: bold;
-  float: left;
 }
 
 .footer{
   font-size: 11px;
   color: white;
   background-color: dimgray;
+}
+
+.footer p{
+  float: left;
 }
 
 .footer ul{
