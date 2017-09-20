@@ -5,6 +5,7 @@ body {
 
 .header {
   background-image: url("../images/the-flatiron-building.png");
+  text-align: center;
 }
 
 .header h1 {
@@ -15,10 +16,21 @@ body {
 
 .header ul {
   font-size: 18px;
-  text-align: center;
-  text-decoration: none;
+  list-style-type: none;
 }
 
-.header ul li {
+.header ul li a {
   color: white;
+}
+
+.Section1 {
+  text-align: center;
+}
+
+.Section2 {
+  text-align: center;
+}
+
+.Section2 h2{
+  background-image: url("../images/the-flatiron-building.png");
 }
