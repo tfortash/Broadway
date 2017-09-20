@@ -66,6 +66,10 @@ body {
 }
 
 .footer ul li{
-  float: left;
+  float: right;
   display: inline;
+}
+
+.footer ul li a {
+  color: white;
 }
