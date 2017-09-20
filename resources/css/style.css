@@ -62,6 +62,7 @@ body {
 
 .footer p{
   float: left;
+  margin-bottom: 5px;
 }
 
 .footer ul{
