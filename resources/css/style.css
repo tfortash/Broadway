@@ -27,10 +27,28 @@ body {
   text-align: center;
 }
 
+.Section1 h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.Section1 h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
 .Section2 {
   text-align: center;
 }
 
 .Section2 h2{
   background-image: url("../images/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.Section2 h2{
+  font-size: 23px;
+  font-weight: bold;
 }
