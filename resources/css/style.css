@@ -6,7 +6,7 @@ body {
 .header {
   background-image: url("../images/the-flatiron-building.png");
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 .header h1 {
@@ -58,10 +58,6 @@ body {
   font-size: 11px;
   color: white;
   background-color: dimgray;
-}
-
-.footer p{
-  float: left;
 }
 
 .footer ul{
