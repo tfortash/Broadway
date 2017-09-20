@@ -52,6 +52,7 @@ body {
 .Section2 h2{
   font-size: 23px;
   font-weight: bold;
+  float: left;
 }
 
 .footer{
@@ -66,7 +67,7 @@ body {
 }
 
 .footer ul li{
-  float: right;
+  float: left;
   display: inline;
 }
 
