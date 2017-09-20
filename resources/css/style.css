@@ -60,6 +60,10 @@ body {
   background-color: dimgray;
 }
 
+.footer p{
+  float: left;
+}
+
 .footer ul{
   font-size: 18px;
   list-style-type: none;
